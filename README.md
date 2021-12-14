@@ -1,16 +1,16 @@
 # virtual-instrument-arduino
 #### 2021∕22 projekt nr 3 "Virtual Instrument" toimus ajavahemikul 13.12 - 15.12.2021.
 
-Meie tiim **"Virtual Instrument"** koosnes 3 erineva kursuse õpilastest: TAK-19, TA-20 ja TA-21
+Meie tiim **"Virtual Instrument"** koosnes 3 erineva kursuse õpilastest: TAK-21, TA-20 ja TA-21
 
-**Tiimiliikmed TAK-19:** 
-Erki Leemet / Karl Jäme
+**Tiimiliikmed TAK-21:** 
+Fredy  / Karl Jäme
 
 **Tiimiliikmed TA-20:**
-Rainis-Ross Tiirik / Andra Vabar 
+Terje Volke 
 
 **Tiimiliikmed TA-21:**
-Riivo Matt / Liisi Kuusküll / Olev Kuris
+Jana Kindlam / Lisbeth Raielo / Gregor Tilts / 
 
 ## Kust me pärit oleme?
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
